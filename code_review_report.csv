@@ -1,0 +1,41 @@
+File,Function/Class,Type,Severity,Confidence,Label,Comment
+temp_repo\docs\conf.py,github_link,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\docs\conf.py,github_link,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\docs\conf.py,setup,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\docs\conf.py,setup,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\tasks.py,add,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\tasks.py,add,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\tasks.py,block,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\tasks.py,block,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\tasks.py,process,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\tasks.py,process,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\views.py,result,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\views.py,result,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\views.py,add,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\views.py,add,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\views.py,block,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\views.py,block,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\views.py,process,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\views.py,process,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\__init__.py,create_app,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\__init__.py,create_app,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\__init__.py,celery_init_app,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\__init__.py,celery_init_app,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\__init__.py,index,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\__init__.py,index,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\__init__.py,FlaskTask,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\__init__.py,FlaskTask,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\celery\src\task_app\__init__.py,__call__,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\celery\src\task_app\__init__.py,__call__,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\javascript\js_example\views.py,index,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\javascript\js_example\views.py,index,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\javascript\js_example\views.py,add,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\javascript\js_example\views.py,add,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\javascript\tests\conftest.py,fixture_app,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\javascript\tests\conftest.py,fixture_app,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\javascript\tests\conftest.py,client,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\javascript\tests\conftest.py,client,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\javascript\tests\test_js_example.py,test_index,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\javascript\tests\test_js_example.py,test_index,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
+temp_repo\examples\javascript\tests\test_js_example.py,test_add,style,low,85,HIGH CONFIDENCE,Consider adding spaces around operators.
+temp_repo\examples\javascript\tests\test_js_example.py,test_add,performance,medium,72,MEDIUM CONFIDENCE,Function may benefit from input validation.
